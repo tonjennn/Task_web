@@ -19,22 +19,22 @@
 
 ## 📸 Screenshot
 ### Halaman Admin
-![Admin Panel](https://raw.githubusercontent.com/username/web-task/main/screenshots/admin.png)
+![Admin Panel](WEB_TASK/admin.png)
 
 ### Halaman Register
-![Register](https://raw.githubusercontent.com/username/web-task/main/screenshots/register.png)
+![Register](WEB_TASKregister.png)
 
 ### Edit User
-![Edit User](https://raw.githubusercontent.com/username/web-task/main/screenshots/edit%20user.png)
+![Edit User](WEB_TASK/edit%20user.png)
 
 ### Hapus User
-![Hapus User](https://raw.githubusercontent.com/username/web-task/main/screenshots/hapus%20user.png)
+![Hapus User](WEB_TASK/hapus%20user.png)
 
 ### Halaman Login
-![Login](https://raw.githubusercontent.com/username/web-task/main/screenshots/login.png)
+![Login](WEB_TASK/login.png)
 
 ### Halaman User
-![User](https://raw.githubusercontent.com/username/web-task/main/screenshots/user.png)
+![User](WEB_TASKuser.png)
 
 ## 🤝 Kontribusi
 Jika ingin berkontribusi, silakan fork repository ini dan ajukan pull request.
