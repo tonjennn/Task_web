@@ -22,7 +22,7 @@
 ![Admin Panel](WEB_TASK/admin.png)
 
 ### Halaman Register
-![Register](WEB_TASKregister.png)
+![Register](WEB_TASK/register.png)
 
 ### Edit User
 ![Edit User](WEB_TASK/edit%20user.png)
@@ -34,7 +34,7 @@
 ![Login](WEB_TASK/login.png)
 
 ### Halaman User
-![User](WEB_TASKuser.png)
+![User](WEB_TASK/user.png)
 
 ## 🤝 Kontribusi
 Jika ingin berkontribusi, silakan fork repository ini dan ajukan pull request.
